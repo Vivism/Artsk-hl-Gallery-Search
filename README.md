@@ -1,2 +1,2 @@
-# Artsk-hl-Gallery-Search
+# Artskühl Gallery Search
 An image search engine for art galleries
