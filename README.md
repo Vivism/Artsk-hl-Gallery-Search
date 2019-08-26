@@ -8,4 +8,4 @@ Given an image of an artwork, the Gallery Search finds galleries that presently 
 - Runs on Google Colaboratory, using Tensorflow and TFP2 as a caller.
 - Notebook [here](https://colab.research.google.com/github/Vivism/Artskuhl-Gallery-Search/blob/master/Artskühl_Gallery_Search.ipynb).
 
-### <a href='mailto:will@vivism.com'>Contact me</a> for live demos.
+### <a href='mailto:will@willholley.com'>Contact me</a> for live demos.
